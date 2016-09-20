@@ -1,0 +1,2 @@
+# whmcs_clientareahome_render_network_issues
+Render network issues directly in clientareahome page
